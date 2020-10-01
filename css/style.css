@@ -1,0 +1,24 @@
+/*****************************TAG SELECTORS************************/
+
+body{
+  background-color: #e4e4e4
+}
+h1{
+  color: blue;
+  font-size: 100px;
+  }
+
+/*
+}
+img{
+  background-color: white;
+}
+*/
+/****************************CLASS SELECTORS**********************/
+
+.paneer{
+  background-color: green;
+}
+.bitter{
+  background-color: red;
+}
